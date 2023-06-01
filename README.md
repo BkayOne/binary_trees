@@ -258,12 +258,8 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Ikenna Udemezue</summary>
+    <summary>Ozonwu Frankelly & Paidamoyo Garikai </summary>
     <ul>
-    <li><a href="https://www.github.com/iykethe”1st>Github</a></li>
-    <li><a href="mailto:iykethe1st@gmail.com">e-mail</a></li>
 
     </ul>
 </details>
-
-/* Project done by Ozonwu Frankelly and */
